@@ -4,4 +4,3 @@ Matlab code
 # it conclude two models:
 1) 5 parameters model
 2) Mix lubricant model
-# Thanks for god of math!
